@@ -8,3 +8,6 @@ https://docs.google.com/spreadsheets/d/1NMYqy2J5gHACbTiq95CRSkuIObzM0COJUYThVt8z
 
 rogerge-IDA.2https://docs.google.com/spreadsheets/d/1Be_7HWztAtjrVk5xH6jgecQ3XK72YPIFH08VhEhniJw/edit?usp=sharing
 #analysis for project useing googlesheet
+
+https://docs.google.com/spreadsheets/d/1wKz0cKMWJoRCi-_nC13DlzEHweVT9-vu1mKE1BIl_gM/edit?usp=sharing https://docs.google.com/spreadsheets/d/1CJ4IQIsr_2WI5xMZ_XDfBw0gQmxIbKJA_8f2Q1qY2uw/edit?usp=sharing
+#sql queries and its results used bigquery
