@@ -20,3 +20,6 @@ https://docs.google.com/spreadsheets/d/1t2kjz-ZnWJyrGeM7X90PuipemxGfaE5DxtcJqiTI
 
 https://docs.google.com/spreadsheets/d/1KSI1CF356txAxFQt4cuGnOiMiuKWnhVp_q9YcAg8m_E/edit#gid=1719056349
 A/B testing using googlesheet
+
+https://docs.google.com/spreadsheets/d/1PM-qQF5rG31w6G79_XLMYjw868G1VZ0dxql_suvGILU/edit?usp=sharing
+logestic regression useing xlminer and solver
