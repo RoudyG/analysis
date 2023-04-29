@@ -1,9 +1,10 @@
 HI THERE😊 MY PROJECTS ANALYSIS' LINKS📊:
 
-💡#PRODUCT ANALYSIS
+💡#PRODUCT ANALYSIS 
+
   based around tiny angle, trying to find the backdraws and what further analysis could we do more ,
   You have a follow up task from your product manager to identify how much time it takes for a user to make a purchase on your website.
-  MY PM would like to see the users' duration from first arriving on the website on   any given day until their first purchase on that same day. Your final result should show the duration dynamic daily.
+  MY PM would like to see the users' duration from first arriving on the website on any given day until their first purchase on that same day. Your final result should show the duration dynamic daily.
   Created a presentation centered around the dynamic daily duration.
 📈 https://lookerstudio.google.com/reporting/44dac2c3-6caf-4592-916d-64f83ec9d8ea
 
