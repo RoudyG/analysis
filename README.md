@@ -46,14 +46,14 @@ HI THERE😊 MY PROJECTS ANALYSIS' LINKS📊:
  📉 https://docs.google.com/spreadsheets/d/1wKz0cKMWJoRCi-_nC13DlzEHweVT9-vu1mKE1BIl_gM/edit?usp=sharing
  
 💡#QUERIES USEING SQL(bigquery)
-  *1- a query of monthly sales numbers in each Country & region
-  *2- query with the cumulative_sum of the total amount with tax earned per country & region.
-  *3- adding ‘sales_rank’ column that ranks rows from best to worst for each country based on total amount with tax earned each month.
-  *4- query by adding taxes on a country level
+   *1- a query of monthly sales numbers in each Country & region
+   *2- query with the cumulative_sum of the total amount with tax earned per country & region.
+   *3- adding ‘sales_rank’ column that ranks rows from best to worst for each country based on total amount with tax earned each month.
+   *4- query by adding taxes on a country level
 📈 https://docs.google.com/spreadsheets/d/1CJ4IQIsr_2WI5xMZ_XDfBw0gQmxIbKJA_8f2Q1qY2uw/edit?usp=sharing
 
 💡#ANALYSIS FOR "MONTHLY SALES & ONLINE VS. NON-ONLINE ORDERS" (useing google sheet)
- 📊 https://docs.google.com/spreadsheets/d/1Be_7HWztAtjrVk5xH6jgecQ3XK72YPIFH08VhEhniJw/edit?usp=sharing
+  📊 https://docs.google.com/spreadsheets/d/1Be_7HWztAtjrVk5xH6jgecQ3XK72YPIFH08VhEhniJw/edit?usp=sharing
 
 
 
