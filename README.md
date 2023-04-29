@@ -40,20 +40,22 @@ HI THERE😊 MY PROJECTS ANALYSIS' LINKS📊:
       📊 https://docs.google.com/spreadsheets/d/1bPjZeSAQ_gh-9I056DUGryzJUCYv8qrMpkrKK69tFhw/edit?usp=sharing
 
 💡#QUERIES USEING SQL(bigquery)
-   1- a detailed overview of all individual customers .
-   2- customers with the highest total amount of purchases who have not ordered for the last 365 days.
-   3- new column(for pervious query) in the view that marks active & inactive customers based on whether they have ordered anything during the last 365 days.
-   4- active customers from North America. Only customers that have either ordered 2500 in total amount purchases (w Tax) or ordered 5 + times should be presented. 
+
+ * 1- a detailed overview of all individual customers .
+ * 2- customers with the highest total amount of purchases who have not ordered for the last 365 days.
+ * 3- new column(for pervious query) in the view that marks active & inactive customers based on whether they have ordered anything during the last 365 days.
+ * 4- active customers from North America. Only customers that have either ordered 2500 in total amount purchases (w Tax) or ordered 5 + times should be presented. 
  📉 https://docs.google.com/spreadsheets/d/1wKz0cKMWJoRCi-_nC13DlzEHweVT9-vu1mKE1BIl_gM/edit?usp=sharing
  
 💡#QUERIES USEING SQL(bigquery)
-   *1- a query of monthly sales numbers in each Country & region
-   *2- query with the cumulative_sum of the total amount with tax earned per country & region.
-   *3- adding ‘sales_rank’ column that ranks rows from best to worst for each country based on total amount with tax earned each month.
-   *4- query by adding taxes on a country level
+
+ * 1- a query of monthly sales numbers in each Country & region.
+ * 2- query with the cumulative_sum of the total amount with tax earned per country & region.
+ * 3- adding ‘sales_rank’ column that ranks rows from best to worst for each country based on total amount with tax earned each month.
+ * 4- query by adding taxes on a country level.
 📈 https://docs.google.com/spreadsheets/d/1CJ4IQIsr_2WI5xMZ_XDfBw0gQmxIbKJA_8f2Q1qY2uw/edit?usp=sharing
 
-💡#ANALYSIS FOR "MONTHLY SALES & ONLINE VS. NON-ONLINE ORDERS" (useing google sheet)
+💡#ANALYSIS FOR "MONTHLY SALES & ONLINE VS. NON-ONLINE ORDERS" (useing google sheet).
   📊 https://docs.google.com/spreadsheets/d/1Be_7HWztAtjrVk5xH6jgecQ3XK72YPIFH08VhEhniJw/edit?usp=sharing
 
 
