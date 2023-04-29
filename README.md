@@ -9,7 +9,7 @@ HI THERE😊 MY PROJECTS ANALYSIS' LINKS📊:
 📈 https://lookerstudio.google.com/reporting/44dac2c3-6caf-4592-916d-64f83ec9d8ea
 
 💡#FUNNEL PROJECT
-* best 3 countries done purchases useing funnel analysis
+* best 3 countries done purchases useing funnel analysis.
 📉 https://docs.google.com/spreadsheets/d/1ksWWiVF0nY8USoQxOgSsf3aCC21lpYIb25L81D8YbhU/edit#gid=466875420
 
 💡#COHORT ANALYSIS
@@ -34,13 +34,13 @@ HI THERE😊 MY PROJECTS ANALYSIS' LINKS📊:
  
 💡#CLV (customer life value) CALCULATION,
    * customers who purchased something, while marketing is counting all user registrations that they manage to bring to  ecommerce site. 
-   * Thus, I adjust calculations to include all users who have been on  website, not        only the one who purchased something.
+   * Thus, I adjust calculations to include all users who have been on  website, not only the one who purchased something.
    * Next I produced the same chart, but the revenue / registrations for a particular week cohort will be expressed as a cumulative sum.
-   * last, I focused on the future and try to predict the missing data. In this case missing data is the revenue we should expect from later acquired user cohorts.
- 📊 https://docs.google.com/spreadsheets/d/1bPjZeSAQ_gh-9I056DUGryzJUCYv8qrMpkrKK69tFhw/edit?usp=sharing
+   * last, I focused on the future and try to predict the missing data. 
+      📊 https://docs.google.com/spreadsheets/d/1bPjZeSAQ_gh-9I056DUGryzJUCYv8qrMpkrKK69tFhw/edit?usp=sharing
 
 💡#QUERIES USEING SQL(bigquery)
-   1- a detailed overview of all individual customers 
+   1- a detailed overview of all individual customers .
    2- customers with the highest total amount of purchases who have not ordered for the last 365 days.
    3- new column(for pervious query) in the view that marks active & inactive customers based on whether they have ordered anything during the last 365 days.
    4- active customers from North America. Only customers that have either ordered 2500 in total amount purchases (w Tax) or ordered 5 + times should be presented. 
