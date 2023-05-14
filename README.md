@@ -1,5 +1,16 @@
 HI THERE😊 MY PROJECTS ANALYSIS' LINKS📊:
 
+💡#MARKETING ANALYSIS
+
+📊finding out if users tend to spend more time on your website on certain weekdays and weekends how that behavior differs across campaigns.										
+The analysis shows that the referral campaign is the most effective campaign in terms of event value, count of users, and time duration engaged.										
+The organic campaign comes second after the referral campaign, but referral campaign is still better when comparing										
+total events and purchases through A/B testing with 99% confidence interval.										
+										
+📊The analysis also shows that campaigns related to special occasions are more effective in engaging existing users for longer durations,										
+while campaigns related to organic and referral sources are better in acquiring new users and engaging them on the website.										
+📈 https://docs.google.com/spreadsheets/d/1uuh5oSP51Rlkww6CAj0CtyB012Mahsh5qXGam9jP60E/edit?usp=sharing
+
 💡#PRODUCT ANALYSIS 
 
   based around tiny angle, trying to find the backdraws and what further analysis could we do more ,
