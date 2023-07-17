@@ -1,1 +1,12 @@
+Marketing Analysis
+💡#MARKETING ANALYSIS
 
+📊finding out if users tend to spend more time on your website on certain weekdays and weekends how that behavior differs .										
+The analysis shows that the referral  is the most effective  in terms of event value, count of users, and time duration engaged.										
+The organic  comes second after the referral , but referral  is still better when comparing										
+total events and purchases through A/B testing with 99% confidence interval.										
+										
+📊The analysis also shows that campaigns related to special occasions are more effective in engaging existing users for longer durations,										
+while campaigns related to organic and referral sources are better in acquiring new users and engaging them on the website.
+
+📈 https://docs.google.com/spreadsheets/d/1uuh5oSP51Rlkww6CAj0CtyB012Mahsh5qXGam9jP60E/edit?usp=sharing
